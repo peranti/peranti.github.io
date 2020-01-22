@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Scientist&#39;s Diary</title>
+    <title>A scientist&#39;s Diary</title>
     <link>/</link>
-    <description>Recent content on The Scientist&#39;s Diary</description>
+    <description>Recent content on A scientist&#39;s Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2019. All rights reserved.</copyright>
+    <copyright>&amp;copy; 2020. All rights reserved.</copyright>
     <lastBuildDate>Tue, 21 Jan 2020 20:51:14 -0500</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,14 @@
       <pubDate>Tue, 21 Jan 2020 20:51:14 -0500</pubDate>
       
       <guid>/post/2020-01-21-hello-world/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-When you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</description>
+      <description>R MarkdownThis website has been built using the below sources:
+1. http://www.storybench.org/how-to-build-a-website-with-blogdown-in-r/
+2. https://amber.rbind.io/2016/12/19/website/
+3. https://www.hjdskes.nl/blog/deploying-hugo-on-personal-gh-pages/index.html
+4. https://jdeines.github.io/post/r-blogdown-hugo-and-github-website/
+5. https://alison.rbind.io/post/up-and-running-with-blogdown/#read-up-on-blogdown
+Related:https://mltconsecol.github.io/post/20170123_blogdown_hugo/
+</description>
     </item>
     
     <item>
