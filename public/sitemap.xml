@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-01-21T20:51:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2020-01-21-hello-world/</loc>
     <lastmod>2020-01-21T20:51:14-05:00</lastmod>
   </url>
@@ -29,11 +34,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-01-21T20:51:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-01-21T20:51:14-05:00</lastmod>
   </url>
   
